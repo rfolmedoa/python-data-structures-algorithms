@@ -1,3 +1,1 @@
-# Linkedin Learning Course
-## Python Data Structures and Algorithms
-### Robin Andrews
+## Python Data Structures and Algorithms by Robin Andrews
